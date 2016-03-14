@@ -1,0 +1,3 @@
+Stylized as hookyHUD but Google Code doesn't like capitals.
+
+This time it's my own HUD. I'm making this because I was using broeselhud and it's not going to be updated for a while. Originally was going to be an updated broeselhud but the creator of that HUD was actually still working on it. So I then switched to revanxp-hud because that HUD hasn't been updated in almost a year. After having many glitches, I gave up and started on my own HUD.
